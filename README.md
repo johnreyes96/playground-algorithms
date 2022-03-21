@@ -1,8 +1,8 @@
-# playground-algorithms
+# playground on logic algorithms
 
 ![License](https://img.shields.io/github/license/johnreyes96/playground-algorithms?style=plastic)
 
-Playground on logic algorithms realized in Java 17
+Playground on logic algorithms realized in Java 17.
 
 ## Logic algorithms
 * Fibonacci number
