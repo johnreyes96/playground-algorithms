@@ -1,4 +1,4 @@
-# playground on logic algorithms
+# Playground on logic algorithms
 
 ![License](https://img.shields.io/github/license/johnreyes96/playground-algorithms?style=plastic)
 
